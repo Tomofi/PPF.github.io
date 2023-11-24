@@ -18,11 +18,11 @@ tags : [DevError] #소문자만 가능
 
 #### (1) 에러 메세지
 > - Github 메시지
-> ![에러 원인]({{"/assets/img/231117_Github_Webhosting_error1.png" | relative_url}})
-{% include image.html url='{{"/assets/img/231117_Github_Webhosting_error1.png"| relative_url}}' description='여기에 캡션을 작성합니다.' alt='Image Alt 텍스트' %}
+> ![에러 원인](../assets/img/231117_Github_Webhosting_error1.png)
+
 
 > - 에러 메시지 관련 파일
-> ![에러 원인](/assets/img/231117_Github_Webhosting_error2.png)
+> ![에러 원인]({{'../assets/img/231117_Github_Webhosting_error2.png' | relative_url}})
 
 
 > - /assets/js/dist 폴더가 없었기 때문에 dist 폴더를 해당 루트에 만들어주고, javascript폴더에 있던 6개 파일의 이름을 .min를 붙여 수정 후 dist폴더에 넣어주니까 build 에러 해결됨

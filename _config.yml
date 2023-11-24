@@ -165,6 +165,10 @@ defaults:
       path: _javascript
     values:
       swcache: true
+  - scope:
+      path: assets/img
+    values:
+      image: true
 
 sass:
   style: compressed

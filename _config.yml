@@ -115,7 +115,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: " "
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -165,10 +165,7 @@ defaults:
       path: _javascript
     values:
       swcache: true
-  - scope:
-      path: assets/img
-    values:
-      image: true
+
 
 sass:
   style: compressed

@@ -18,7 +18,7 @@ tags : [DevError] #소문자만 가능
 
 #### (1) 에러 메세지
 > - Github 메시지
-> ![에러 원인](/assets/img/231117_Github_Webhosting_error1.png)
+> ![에러 원인]({{"/assets/img/231117_Github_Webhosting_error1.png" | relative_url}})
 
 
 > - 에러 메시지 관련 파일

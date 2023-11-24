@@ -1,8 +1,9 @@
 ---
-title : 2023-11-17-Web hosting Error
+title : (231117) Web hosting Error
 date : 2023-11-17 15:19:11 +/09:00
 categories : [Devlog, DevError]
 tags : [DevError] #소문자만 가능
+#image: /assets/img/231117_Github_Webhosting_error1.png
 ---
 
 ### 날짜: 2023-11-17 13:41
@@ -18,11 +19,11 @@ tags : [DevError] #소문자만 가능
 
 #### (1) 에러 메세지
 > - Github 메시지
-> ![에러 원인](/assets/img/231117_Github_Webhosting_error1.png){:.image-styling}  
+> ![에러 원인](/assets/img/DevError/231117_Github_Webhosting_error1.png)  
 
 
 > - 에러 메시지 관련 파일
-> ![에러 원인](/assets/img/231117_Github_Webhosting_error2.png){:.image-styling}  
+> ![에러 원인2](/assets/img/DevError/231117_Github_Webhosting_error2.png)
 
 
 > - /assets/js/dist 폴더가 없었기 때문에 dist 폴더를 해당 루트에 만들어주고, javascript폴더에 있던 6개 파일의 이름을 .min를 붙여 수정 후 dist폴더에 넣어주니까 build 에러 해결됨
@@ -37,10 +38,5 @@ tags : [DevError] #소문자만 가능
 * [Chirpy 테마 적용](https://velog.io/@hashnsalt/Github-Blog-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
 
 &nbsp;
-
-
-
-
-
 
 

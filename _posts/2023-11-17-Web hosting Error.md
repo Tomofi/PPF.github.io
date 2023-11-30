@@ -1,17 +1,13 @@
 ---
-title : (231117) Web hosting Error
+title : Chirpy Web hosting Error
 date : 2023-11-17 15:19:11 +/09:00
 categories : [Devlog, DevError]
 tags : [DevError] #소문자만 가능
 #image: /assets/img/231117_Github_Webhosting_error1.png
 ---
 
-### 날짜: 2023-11-17 13:41
-&nbsp;
+Chirpy 테마를 적용시 깃허브 환경에서 빌드 시 에러
 
-### 주제: #Devlog 
-
-&nbsp;
 
 ----
 
